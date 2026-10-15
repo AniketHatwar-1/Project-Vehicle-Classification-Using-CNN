@@ -1,4 +1,4 @@
-# Vehicle Classification CNN (Improved)
+# Vehicle Classification CNN
 
 A simple Windows project using a custom CNN trained from random initialization. No pretrained YOLO or pretrained classification model is used.
 
