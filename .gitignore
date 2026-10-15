@@ -1,0 +1,25 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Dataset
+Dataset1.zip
+data/
+!data/.gitkeep
+
+# Trained models
+models/
+!models/.gitkeep
+
+# Generated results
+results/
+!results/.gitkeep
+
+# Editor and Windows files
+.vscode/
+.idea/
+Thumbs.db
